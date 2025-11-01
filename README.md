@@ -71,3 +71,5 @@ increase `election_timeout` in config
 - postgresql connections leak on abnormal shutdown
 
 built by @devtools-crew • [issues](https://github.com/devtools-crew/crawl_controller/issues)
+
+# PR Merge: 2025-11-01 11:34:17
